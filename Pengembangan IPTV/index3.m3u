@@ -1,8 +1,0 @@
-#EXTINF:-1 group-title="",Bening TV
-udp://@224.2.2.2:2001
-#EXTINF:-1 group-title="",SMB TV
-udp://@224.2.2.3:2002
-#EXTINF:-1 group-title="",TV-103
-udp://@224.2.2.4:2003
-#EXTINF:-1 group-title="",TV-104
-udp://@224.2.2.5:2004
